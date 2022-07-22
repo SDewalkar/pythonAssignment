@@ -1,3 +1,8 @@
+''' Python Assignment
+    Analysis of Census data
+    Submitted by Sandip Dewalkar
+    22/07/2022'''
+
 import pandas as pd
 import numpy as np
 
